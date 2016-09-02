@@ -30,4 +30,6 @@ Please note that I am not a gui designer. The UI will not be the nicest while in
 ![Index](http://i.imgur.com/1XvmBlq.png)
 ![About](http://i.imgur.com/krhw3hK.png)
 
+# Helping out
+You can help the project buy contributing to the github. Fork the project and add in features, change gui, improve the connection speed or if you can't program, <a href="https://www.patreon.com/SightstoneOfficial">just wait</a>.
 
