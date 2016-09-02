@@ -15,14 +15,14 @@ namespace Sightstone.AspNet.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "About Sightstone.";
 
             return View();
         }
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Contact the sightstone team.";
 
             return View();
         }
