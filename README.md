@@ -3,6 +3,8 @@ The official sightstone website
 
 Connect to league of legends, launch your game and play your way. No need to use the client. Requires league of legends to be installed and up to date.
 
+Join the chat <a href="https://discord.gg/Av4FQEF">here</a>.
+
 # Security
 If you do not think our server is secure enough, you are free to use the source code for your own server. If you do this, you are not allowed to post the url to your website anywhere.
 
