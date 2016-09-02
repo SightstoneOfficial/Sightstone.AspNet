@@ -26,6 +26,6 @@ This screen shots are work in progress. They may change anytime for any reason.
 
 Please note that I am not a gui designer. The UI will not be the nicest while in development.
 ![Index](http://i.imgur.com/1XvmBlq.png)
-![About](http://i.imgur.com/cy8XkBj.png)
+![About](http://i.imgur.com/krhw3hK.png)
 
 
